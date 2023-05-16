@@ -98,6 +98,14 @@
     "enable": true
   },
   "eslint.quiet": true,
+  "eslint.validate": [
+    "javascript",
+    "typescript",
+    "javascriptreact",
+    "typescriptreact",
+    "vue",
+    "markdown"
+  ],
 
   "github.copilot.enable": {
     "*": true,
@@ -164,7 +172,7 @@
   "svg.preview.mode": "svg",
 
   // I only use Prettier for manually formatting
-  "prettier.enable": false,
+  "prettier.enable": true,
   "prettier.printWidth": 200,
   "prettier.semi": false,
   "prettier.singleQuote": true,
