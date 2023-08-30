@@ -104,7 +104,6 @@
     "javascriptreact",
     "typescriptreact",
     "vue",
-    "markdown"
   ],
 
   "github.copilot.enable": {
@@ -171,8 +170,7 @@
   "iconify.inplace": true,
   "svg.preview.mode": "svg",
 
-  // I only use Prettier for manually formatting
-  "prettier.enable": true,
+  // "prettier.enable": true,
   "prettier.printWidth": 200,
   "prettier.semi": false,
   "prettier.singleQuote": true,
